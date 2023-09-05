@@ -5,6 +5,9 @@
  And the people in the ***Aruku Valley*** were very simple and hard workers. And locations was simply wonderfull. A very good place to visit and explore.
  ---
  MY Fav Spots
- 1. Drinking fresh coffee 
+ 1. Having fresh coffee 
  2. Visiting Flower Garden
  3. Play on Tribal park
+ * Bambo chicken
+ * spicy corn
+ * Chicken Barbeque
