@@ -14,4 +14,4 @@
  * spicy corn
  * Chicken Barbeque
 
-[my image] (https://github.com/VinayJyothi/my2Gollapalli/blob/7c5f9796032cf500704faf629c25377abd1477c5/MyStats)
+[my image](https://github.com/VinayJyothi/my2Gollapalli/blob/7c5f9796032cf500704faf629c25377abd1477c5/MyStats)
