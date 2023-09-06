@@ -13,7 +13,7 @@
  3. Play on Tribal park
  #### Unorderd List
  * Bambo chicken
- * spicy corn
+ * spicy Chees corn
  * Chicken Barbeque
 
 [MyStats](https://github.com/VinayJyothi/my2Gollapalli/blob/main/MyStats.md) 
