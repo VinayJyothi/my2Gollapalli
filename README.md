@@ -20,6 +20,14 @@
 
 ---
 Sports
-| valley ball| Hockey | Tennis |
-| --- | -- | -- |
-| Cricket | Basket Ball | Base Ball |
+Sports is a physical activity often competitive and organized, that aim to use, maintain, or improve physical ability and skills  while providing enjoymnet to participants and also entertainment to spectators.
+
+| valley ball|  |  |
+| -- | -- | -- |
+| Cricket |  |  |
+| -- | -- | -- |
+| Hockey |  |  |
+| -- | -- | --|
+| Tennis |  |  |
+
+
