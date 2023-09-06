@@ -15,4 +15,4 @@
  * Chicken Barbeque
 
 link to MyStats 
-<https://github.com/VinayJyothi/my2Gollapalli/blob/7c5f9796032cf500704faf629c25377abd1477c5/MyStats>  
+<https://vscode.dev/github/VinayJyothi/my2Gollapalli/blob/main/MyStats.md>  
