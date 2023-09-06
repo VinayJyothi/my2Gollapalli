@@ -38,6 +38,7 @@ Pithy Quotes
 Code Fencing
 
 >Using function and if statement in SCSS
+
 [Functional Programming Functions]<https://stackoverflow.com/questions/57025743/using-function-and-if-statement-in-scss>
 
 ```
