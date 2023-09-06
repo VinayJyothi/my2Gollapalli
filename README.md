@@ -22,12 +22,10 @@
 Sports
 Sports is a physical activity often competitive and organized, that aim to use, maintain, or improve physical ability and skills  while providing enjoymnet to participants and also entertainment to spectators.
 
-| valley ball|  |  |
+| valley ball| Playing a valleyball is help for physical and menatal health. It improves hand and eye coordination and increases body flexibilty. |  5Hrs|
 | -- | -- | -- |
-| Cricket |  |  |
-| -- | -- | -- |
-| Hockey |  |  |
-| -- | -- | --|
-| Tennis |  |  |
+| Cricket | Playing Cricket will definately help for the physical strength and also increases team cordination.   | 3Hrs |
+| Hockey | playing hockey will increase theb concentration and also help for the leadership qualities.  | 2Hrs |
+| Tennis | Playing tennis is good for maintaining health, fitness, strength and agility | 8Hrs |
 
 
