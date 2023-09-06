@@ -34,3 +34,31 @@ Pithy Quotes
 
 > "Everything is theoretically impossible until it is done." - *Robert Heinlein*
 
+---
+Code Fencing
+
+>Using function and if statement in SCSS
+[Functional Programming Functions]<https://stackoverflow.com/questions/57025743/using-function-and-if-statement-in-scss>
+
+```
+/// Apply `$function` with `$args` to each item from `$list`.
+/// @author Kitty Giraudel
+/// @param {List} $list - List of items
+/// @param {String} $function - Function to apply to every item from `$list`
+/// @param {Arglist} $args - Extra arguments to pass to `$function`
+/// @return {List}
+/// @throw There is no `#{$function}` function.
+@function walk($list, $function, $args...) {
+  @if not function-exists($function) {
+    @error "There is no `#{$function}` function.";
+  }
+  
+  @for $i from 1 through length($list) {
+    $list: set-nth($list, $i, call($function, nth($list, $i), $args...));
+  }
+  
+  @return $list;
+}
+
+```
+[Snippet Quick link]<https://css-tricks.com/snippets/sass/functional-programming-functions/>
