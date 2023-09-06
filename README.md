@@ -3,7 +3,7 @@
 ###### Aruku valley
 
  I like the location of Aruku valley and it was also know as ooty of Andhra Pradesh.<br>It has ***Pure coffee bean plants*** and also lot of greenary around that place.<br> Early morning snow was amazing.
- And the people in the ***Aruku Valley*** were very simple and hard workers. The locations was simply wonderful. A very good place to visit and explore.
+ And the people in the ***Aruku Valley*** were very simple and hard workers. The locations was simply wonderful. A very good place to visit and explore the Nature.
 
  ---
  MY Fav Activities:
