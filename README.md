@@ -14,4 +14,4 @@
  * spicy corn
  * Chicken Barbeque
 
-[MyStats]<https://github.com/VinayJyothi/my2Gollapalli/blob/main/MyStats.md>  
+[MyStats](https://github.com/VinayJyothi/my2Gollapalli/blob/main/MyStats.md) 
