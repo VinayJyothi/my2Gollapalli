@@ -28,4 +28,8 @@ Sports is a physical activity often competitive and organized, that aim to use, 
 | Hockey | playing hockey will increase theb concentration and also help for the leadership qualities.  | 2Hrs |
 | Tennis | Playing tennis is good for maintaining health, fitness, strength and agility | 8Hrs |
 
+---
+Pithy Quotes
+> "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and knows anything about science and technology." - *Carl Sagan*
+> "Everything is theoretically impossible until it is done." - *Robert Heinlein*
 
