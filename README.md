@@ -16,7 +16,7 @@
  * spicy Chees corn
  * Chicken Barbeque
 
-[MyStats](https://github.com/VinayJyothi/my2Gollapalli/blob/main/MyStats.md) 
+[link_to_MyStats] (https://github.com/VinayJyothi/my2Gollapalli/blob/main/MyStats.md) 
 
 ---
 Sports
